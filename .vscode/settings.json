@@ -1,0 +1,6 @@
+{
+    "files.associations": {
+        "iostream": "cpp"
+    },
+    "cortex-debug.variableUseNaturalFormat": true
+}
